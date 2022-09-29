@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="git@gitlab.transspay.net/" />
+  <remote name="origin" fetch="ssh://git@gitlab.transspay.net/" />
   <default revision="master" remote="origin" />
   <project path="send-money"
            name="palm-pay-android/send-money.git" remote="origin" />
